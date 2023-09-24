@@ -63,7 +63,7 @@ I extend my gratitude to my mentors, to the SugarLabs organization, and to Googl
 ### [JukeBox](https://github.com/sugarlabs/jukebox-activity)
 - Fixed Gtk-CRITICAL warning. [Merged](https://github.com/sugarlabs/jukebox-activity/pull/33)
 
-### [TextQuest](https://github.com/sugarlabs/textquest)/ [TextDungeon](https://github.com/sugarlabs/textdungeon)
+### [TextQuest](https://github.com/sugarlabs/textquest)/[TextDungeon](https://github.com/sugarlabs/textdungeon)
 Started with the intention of improving the TextDungeon activity by fixing bugs, improving the UI and adding new stories. The changes were substantial however and the decision to release the improved version as a new activity was made, therefore the TextQuest activity was introduced to SugarLabs.
 
 ### [Lemonade](https://github.com/sugarlabs/Lemonade)
